@@ -4,4 +4,5 @@ __pycache__/
 config.json
 reports/*.csv
 data/*.db
+data/raw
 !data/sample.db
